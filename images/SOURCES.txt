@@ -1,0 +1,8 @@
+Stock photography sources (Unsplash licence). Replace with the client's own photos when available.
+
+hero-*.webp   Michael Kahn, https://unsplash.com/photos/xWAsrLw_1hk
+garden-*.webp Jed Owen,     https://unsplash.com/photos/1JgUGDdcWnM
+tree-*.webp   Paula Morin,  https://unsplash.com/photos/2gMF-wL6L6A
+og.jpg        composed from the hero photo above.
+
+Font: Fraunces 600 (SIL OFL), via @fontsource/fraunces.
